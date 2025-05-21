@@ -53,3 +53,6 @@ To run the programs:
 
 CONCLUSIONS:
 This project provided valuable insights into network programming, concurrency in Java, and client-server architecture. Despite facing challenges, the experience enhanced our understanding of Java sockets and communication protocols. Moving forward, addressing the remaining issues will further improve the robustness and usability of the application.
+
+FUTURE WORK:
+Implementation of graphical user interface for Client
